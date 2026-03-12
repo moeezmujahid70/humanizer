@@ -8,7 +8,7 @@ A Claude Code skill that removes signs of AI-generated writing from text, making
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/blader/humanizer.git ~/.claude/skills/humanizer
+git clone https://github.com/moeezmujahid70/humanizer.git ~/.claude/skills/humanizer
 ```
 
 ### Manual install/update (only the skill file)
